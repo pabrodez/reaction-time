@@ -5,5 +5,5 @@
 git clone https://github.com/pabrodez/reaction-time
 cd reaction-time
 npm install
-npm start
+npm run start
 ```

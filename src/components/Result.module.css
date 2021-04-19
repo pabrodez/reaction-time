@@ -1,0 +1,6 @@
+.Result {
+    min-width: 20vw;
+    min-height: 10vh;
+    background-color: aliceblue;
+    border: 1px solid wheat;
+}

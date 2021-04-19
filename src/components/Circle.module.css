@@ -1,0 +1,6 @@
+.Circle {
+    width: 20vmax;
+    height: 20vmax;
+    border-radius: 50%;
+    border: 1px solid salmon;
+}
